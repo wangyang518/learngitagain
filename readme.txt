@@ -5,4 +5,9 @@ Git tracks changes of files
 Creating a new branch is quick and simple
 Add merge
 ceshicehischi
+lianxi test
+Git is very good software.
+How old are you..
+nihao
+
 
