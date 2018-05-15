@@ -10,6 +10,3 @@ Git is very good software.
 How old are you..
 nihao
 git is so easy
-now you are in the dev
-merge in the master
-ceshi dev and master with more files
